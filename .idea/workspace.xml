@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7aea6c1-7263-43a0-a4d4-7ab3dd693a19" name="Changes" comment="Första försöket att lägga upp i Git" />
+    <list default="true" id="c7aea6c1-7263-43a0-a4d4-7ab3dd693a19" name="Changes" comment="Första försöket att lägga upp i GitHub">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Luddeggg1213"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Luddeggg1213/LuTestar",
+    "accountId": "f3e6b90b-fbe0-4511-adc4-726aa9eef2c0"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -72,7 +87,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1736667376838</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Första försöket att lägga upp i GitHub">
+      <option name="closed" value="true" />
+      <created>1736668660271</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1736668660271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,19 +110,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Första försöket att lägga upp i Git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Första försöket att lägga upp i Git" />
+    <MESSAGE value="Första försöket att lägga upp i GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Första försöket att lägga upp i GitHub" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>13</line>
+          <line>51</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>1</line>
+          <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

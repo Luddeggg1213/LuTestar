@@ -1,5 +1,43 @@
+# Övning 1
 print("Hello World")
 print("This program was made by Ludvig")
+
+# Övning 2
+x = 100
+y = 200
+
+#Felet är att konverteringen saknades. Jag löste med att ange kommatecken, mina kompisar löste det med att ange str(variabel) med print(f
+print ("Det blir ", + y - x, " kronor över.")
+# Hälften av vad? Nedanstående är alltså hälften av 100 och 200 minus det som blir 200-50 = 150
+#Vi tre kan konvertera på olika sätt, att använda kommatecken. Att använda str
+z = 200 - 100 / 2
+
+print("Hälften är: ", + z)
+
+# Övning 3
+# 3 1a)
+x = input("Ange ett heltal här ")
+
+y = input("Ange ett till heltal här ")
+
+# 3 1b)
+#Varför ett f nedan?
+print(f"Summan av talen= {int(x) + int(y)} ")
+
+# 3 2a)
+
+jacka = 2000
+rabatt = input("Vilken rabatt är det på jackan? ")
+
+
+
+
+
+
+
+# Övning 4
+
+# Övning 5
 
 
 
