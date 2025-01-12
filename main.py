@@ -1,8 +1,5 @@
-
-print("Hello world")
-print("Hello again")
-print("Hello thrice")
-print("Hello for the last time")
+print("Hello World")
+print("This program was made by Ludvig")
 
 
 
