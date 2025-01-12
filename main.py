@@ -25,17 +25,28 @@ y = input("Ange ett till heltal här ")
 print(f"Summan av talen= {int(x) + int(y)} ")
 
 # 3 2a)
+jacka = 2000
+rabattSumma = jacka * 0.5
+slutSumma = jacka - rabattSumma
 
+print("Jackan kostar: " + str(slutSumma) + " kronor med " + str(rabattSumma) + " % rabatt.")
+
+# 3 2b)
 jacka = 2000
 rabatt = input("Vilken rabatt är det på jackan? ")
+rabattSumma = jacka * (int(rabatt) / 100)
+slutSumma = jacka - rabattSumma
+
+print("Jackan kostar: " + str(slutSumma) + " kronor med " + str(rabatt) + " % rabatt.")
+
+# 4 1a)
+def calculateTime(v):
+    seconds = ((470 / int (v)) * 3600)
+    print (f*seconds {seconds})
 
 
 
 
-
-
-
-# Övning 4
 
 # Övning 5
 
