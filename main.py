@@ -8,8 +8,7 @@ y = 200
 
 #Felet är att konverteringen saknades. Jag löste med att ange kommatecken, mina kompisar löste det med att ange str(variabel) med print(f
 print ("Det blir ", + y - x, " kronor över.")
-# Hälften av vad? Nedanstående är alltså hälften av 100 och 200 minus det som blir 200-50 = 150
-#Vi tre kan konvertera på olika sätt, att använda kommatecken. Att använda str
+# Hälften av vad? Nedanstående är alltså hälften av 100 och 200 minus det som blir 200-50 = 150 tolkar jag det som och skrev därmed som kod. De andra i gruppen tolkade som att det skulle vara hälften av allt, dvs 200-100 = 100 och sedan hälften som är 50.
 z = 200 - 100 / 2
 
 print("Hälften är: ", + z)
@@ -39,32 +38,14 @@ slutSumma = jacka - rabattSumma
 
 print("Jackan kostar: " + str(slutSumma) + " kronor med " + str(rabatt) + " % rabatt.")
 
-# 4 1a)
-def calculateTime(v):
-    seconds = ((470 / int (v)) * 3600)
-    print (f*seconds {seconds})
 
+# 4 1a) neandstående får jag inte till så att det fungerar
+v = input("Hur fort kommer du köra i km/h? ")
+S = 470
+tid = float(S) / float(v)
 
-
+print("Det kommer ta " + str(tid) + " timmar")
 
 
 # Övning 5
-
-
-
-# This is a sample Python script.
-
-# Press Skift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-#def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-#    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-#if __name__ == '__main__':
-#    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#Ej hunnit göra denna
